@@ -3,7 +3,7 @@ A showcase hotel website
 
 Go **[here](https://harry-chalcraft-beach-resort.herokuapp.com/)** for live demo.
 
-This project is a showcase hotel website witch will display a list of rooms available, filtering methods and personalised room pages for each room.
+This project is a showcase hotel website wich will display a list of rooms available, filtering methods and personalised room pages for each room.
 
 The project uses the [contentful API](https://www.contentful.com/), to collect all the data. It requires to have an account.
 
